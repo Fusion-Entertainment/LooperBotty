@@ -1,7 +1,7 @@
-# LooperBotty Install
+# LooperBotty Beta v.0.01
 
 
- 
+ # HOW TO INSTALL
 1.Downloaded the bot
 
 2.Unzip the 7zip file and move in to the directory you want
