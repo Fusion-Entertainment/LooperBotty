@@ -1,4 +1,15 @@
-# LooperBotty Beta v.0.01
+# LooperBotty Beta v.2.0 This is only the source code NOT FUNCTIONAL IF DOWNLOADED
+Please download the newest and working version here:
+https://streamlooper.me/looperbotty/
+
+
+ # WHAT IS NEW IN V.2.0
+Added:
+
+The new twitch /announce function
+so now you can set a announcment on a timer for youre bot to fire 
+
+
 
 
  # HOW TO INSTALL
