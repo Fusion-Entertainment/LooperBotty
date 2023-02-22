@@ -1,9 +1,6 @@
 # LooperBotty Beta v.2.0 This is only the source code 
 (NOT FUNCTIONAL IF DOWNLOADED HERE)
 
-Please download the newest and working version here:
-https://streamlooper.me/looperbotty/
-
 
  # WHAT IS NEW IN V.2.0
 Added:
